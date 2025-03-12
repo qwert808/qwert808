@@ -1,51 +1,26 @@
-# Hi there, I'm Dip Biswas Shanto! 👋
+# 💻 Welcome to My GitHub Profile
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)  
 
----
+##  About Me
 
-## 🚀 About Me
+Hi there! I'm a passionate Computer Science student, deeply interested in **Artificial Intelligence** and **Machine Learning**. I love exploring new technologies and solving problems using code. Here's a snapshot of my skills and interests:
 
-I am a **Computer Science Student** passionate about exploring and working on cutting-edge technologies like **Artificial Intelligence** and **Machine Learning**. My journey revolves around solving problems, learning new concepts, and creating innovative solutions.  
+###  Skills
+- **Programming Languages:** C, Java, Python, JavaScript, SQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Scripting:** Bash
+- **Engineering Tools:** PLC (Logic Ladder), AutoCAD
 
----
 
-## 🛠 Skills
-
-Here are the languages, tools, and technologies I have worked with:
-
-### Programming Languages:
-![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black)  
-
-### Web Development:
-![HTML](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-%2300f?logo=database&logoColor=white)  
-
-### Tools:
-- Bash Scripting  
-- PLC (Logic Ladder Programming)  
-- AutoCAD  
+## Tools I Use
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-OpenJDK-red?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-green?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-ShellScript-blue?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
-
-- **Machine Learning Models**  
-- **Genetic Algorithms**  
-- Advanced AI Frameworks and Libraries
-
----
-
-## 📫 Let's Connect!
-
-- **[LinkedIn](https://www.linkedin.com)**  
-- **[Portfolio Website](https://www.example.com)** (Coming Soon!)  
-- Email me: dip.biswas@example.com
-
----
-
-![Footer Image](https://via.placeholder.com/800x100.png?text=Happy+Coding!)
+*"Code is like humor. When you have to explain it, it’s bad."*
