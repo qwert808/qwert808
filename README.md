@@ -1,81 +1,56 @@
-# 👋 Welcome to My GitHub!
+# 💻 Welcome to My GitHub Profile
 
-Hi, I'm **Dip Biswas Shanto** – a dedicated Computer Science student, passionate about crafting intelligent software solutions that merge **Full-Stack Development** with **Artificial Intelligence**. 🚀
+## About Me
 
----
+I am a dedicated Computer Science student with a strong focus on **Full-Stack Development** and a passion for **Artificial Intelligence**. My expertise lies in building complete, end-to-end applications — from developing robust backend services using **C#** and **.NET Core**, to creating seamless mobile experiences with **React Native**.
 
-## 👨‍💻 About Me
+I enjoy bridging the gap between application development and machine learning. I use **Python** to integrate intelligent, data-driven features into the software I create.
 
-🧠 Full-stack developer + AI enthusiast  
-💻 I specialize in building complete, end-to-end applications  
-🔁 Bridging the gap between backend services and ML models  
-📱 Currently developing a full-stack mobile app using:
-- 🟦 `.NET Core` for the backend API  
-- ⚛️ `React Native` for the mobile frontend  
-- 🐍 `Python ML model` at the core
+To enhance my expertise, I’m actively exploring:
+- Advanced deep learning with **TensorFlow** and **PyTorch**
+- Deployment and model lifecycle best practices through **MLOps**
 
-What excites me most is integrating machine learning into practical, real-world applications. I enjoy transforming raw data into intelligent features and user-friendly experiences.
+I also build **React-based web applications**, and enjoy working on scalable, production-ready systems using tools like **TailwindCSS** for responsive and clean UI design.
 
 ---
 
-## 🧰 Skills & Technologies
+## 🛠️ Skills
 
-### 👨‍💻 Programming Languages
-- `Python` | `C#` | `JavaScript` | `Java` | `C` | `SQL`
+### Programming Languages
+- Python, C#, JavaScript, Java, C, SQL
 
-### 🌐 Web & Mobile Development
-- `React` | `React Native` | `HTML` | `CSS` | `.NET Core` | `Node.js`
+### Web & Mobile Development
+- React, React Native, TailwindCSS, HTML, CSS, .NET Core, Node.js
 
-### 🧪 AI/ML & Deep Learning
-- `Scikit-learn` | `Pandas` | `TensorFlow` | `PyTorch` (learning)  
-- Currently exploring **MLOps** and scalable model deployment
-
-### ⚙️ Tools & Misc
-- `Git` | `Bash` | `Postman` | `AutoCAD` | `PLC Ladder Logic`
+### AI/ML & Tools
+- Scikit-learn, Pandas, TensorFlow, PyTorch, Git, Bash
 
 ---
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?style=flat-square&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-green?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-grey?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipbiswas2205&show_icons=true&theme=radical" alt="Dip's GitHub stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipbiswas2205&show_icons=true&theme=default)
 
 ---
 
-## 📚 Currently Learning
+## Contact
 
-- 🤖 Deep Learning with **TensorFlow** and **PyTorch**
-- 🔧 Best practices in **MLOps**
-- 🌐 Advanced Full-Stack Web & Mobile Dev
-
----
-
-## 💬 Quote I Live By
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+- 📧 Email: qwert.shan88@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/dip-biswas8(https://linkedin.com/in/your-username)
 
 ---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username)
-- ✉️ [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://yourwebsite.com)
-
----
-
-_Thanks for visiting! Let’s build something awesome together 🤝_
+> *"Code is like humor. When you have to explain it, it’s bad."*
