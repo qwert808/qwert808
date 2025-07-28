@@ -38,13 +38,6 @@ I also build **React-based web applications**, and enjoy working on scalable, pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-grey?style=flat-square&logo=gnu-bash&logoColor=white)
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipbiswas2205&show_icons=true&theme=default)
-
----
 
 ## Contact
 
