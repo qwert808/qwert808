@@ -42,7 +42,7 @@ I also build **React-based web applications**, and enjoy working on scalable, pr
 ## Contact
 
 - 📧 Email: qwert.shan88@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/dip-biswas8(https://linkedin.com/in/your-username)
+- 🔗 LinkedIn: www.linkedin.com/in/dip-biswas8
 
 ---
 
